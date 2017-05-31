@@ -1,0 +1,26 @@
+<img src="[arbre3] (importée)" width="1155" height="576" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:LEW530 -->
+<area shape="rect" coords="373,7,526,44" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+<area shape="rect" coords="250,96,425,132" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+<area shape="rect" coords="211,189,319,224" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+<area shape="rect" coords="710,3,889,53" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+<area shape="rect" coords="515,82,695,131" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+<area shape="rect" coords="2,355,182,418" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+<area shape="rect" coords="279,503,418,541" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+<area shape="rect" coords="274,382,338,424" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+<area shape="rect" coords="239,304,369,343" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+<area shape="rect" coords="381,194,517,235" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+<area shape="rect" coords="841,160,957,196" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+<area shape="rect" coords="850,285,971,320" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+<area shape="rect" coords="675,217,831,256" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+<area shape="rect" coords="818,458,996,509" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+<area shape="rect" coords="581,518,761,568" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+<area shape="rect" coords="585,400,745,442" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+<area shape="rect" coords="456,269,636,332" href="onclick=&quot;apparaitre(&apos;txt1&apos;)" />
+</map>

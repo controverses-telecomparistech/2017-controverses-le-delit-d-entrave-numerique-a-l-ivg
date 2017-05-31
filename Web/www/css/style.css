@@ -1,0 +1,98 @@
+.header{
+	background-image: url(img/simone.png);
+}
+
+
+
+
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: rockwell;
+}
+h1 small{
+	color: snow;
+}
+p{
+	text-align: justify;
+}
+a{
+	color :black;
+}
+body{
+	/*background-color: rgb(141, 198, 237);*/
+	background-color: #f7f1e1;
+	color: black;
+}
+.hautdepage{
+	padding-top: 70px;
+}
+.dropdown-menu{
+	background-color: black; 
+}
+.dropdown-menu>li>a{
+	color: white;
+}
+
+footer{
+	    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #fff;
+    background: #222;
+}
+#footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#footer ul > li {
+    display: inline-block;
+    margin-left: 15px;
+}
+#footer ul>li>a{
+	color: white;
+}
+
+/*entretiens*/
+.sansfond{
+	background-color: rgb(141, 198, 237);
+}
+/*arbre*/
+.arbre p{
+	display: none;
+	border-radius: 10px;
+    background-color: #fdf3d9;
+    margin: 10px 5px 0 5px;
+    padding: 5px;
+    text-align: justify;
+    box-shadow: 3px 3px 10px #080808;
+}
+
+#accueil{
+	display: block;
+}
+/*chronologie*/
+
+/*bandeau cliqué*/
+.tl-timemarker.tl-timemarker-active .tl-timemarker-content-container{
+	background-color: deepskyblue;
+}
+/*bandeau non cliqué*/
+/*.tl-timemarker .tl-timemarker-content-container {
+	background-color: #FFC555;
+}*/
+.tl-timemarker.tl-timemarker-hover .tl-timemarker-content-container{
+	background-color: pink;
+}
+/*bande*/
+/*.tl-timenav .tl-timenav-slider .tl-timenav-slider-background {
+	background-color: lightskyblue;
+}*/
+
+.tl-timeline p{
+	padding: 5px;
+}
+span.tl-icon-image{
+	display: none;
+}
