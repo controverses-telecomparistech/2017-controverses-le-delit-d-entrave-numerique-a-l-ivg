@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    	
+	<title>	Le délit d'entrave à l'IVG</title>
+</head>
+<body>
+
+    <nav class="navbar navbar-default navbar-fixed-top navbar-inverse">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li ><a href="index.html">Accueil</a></li>
+            <li class="dropdown active">
+              <a href="#" class="dropdown-toggle " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">La controverse en un clin d'oeil <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="debats.html">Arbre des débats</a></li>
+                <li><a href="#">Acteurs</a></li>
+                <li><a href="chronologie.html">Frise chronologique</a></li>
+                </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Approfondir <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="juridique.html">L'aspect juridique</a></li>
+                <li><a href="social.html">L'aspect social</a></li>
+                <li><a href="science.html">Le point de vue scientifique</a></li>
+                <li><a href="medias.html">Que disent les médias ?</a></li>
+                <li><a href="entretiens.html">Le point de vue de quelques acteurs</a></li>
+                </ul>
+            </li>
+            <li ><a href="about" id="moinsinteressant">A propos</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+
+  <div class="container hautdepage center">
+    <img  src="img/acteurs.png" width="1108" height="704" border="0" usemap="#map">
+    <map name="map">
+      <area shape="rect" coords="593,48,814,176" data-toggle="modal" data-target="#modal1_1" />
+      <area shape="rect" coords="866,51,1105,180"  />
+      <area shape="rect" coords="630,202,809,261"  />
+      <area shape="rect" coords="885,209,1063,253"  />
+      <area shape="rect" coords="132,377,387,510"  />
+      <area shape="rect" coords="2,525,209,584"  />
+      <area shape="rect" coords="133,598,314,644"  />
+      <area shape="rect" coords="225,525,526,582"  />
+      <area shape="rect" coords="590,376,773,433"  />
+      <area shape="rect" coords="840,375,1060,478"  />
+      <area shape="rect" coords="593,492,773,585"  />
+      <area shape="rect" coords="844,496,1026,583"  />
+    </map>
+  </div>
+
+  <!-- Modal -->
+<div class="modal fade" id="modal1_1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Les acteurs</h4>
+      </div>
+      <div class="modal-body">
+        <ul class="list-group ">
+          <a class="list-group-item"  data-toggle="collapse" href="#collapse1-1" aria-expanded="false" aria-controls="collapseExample">CNIDFF</a>
+          <div class="collapse" id="collapse1-1">
+            <div class="well">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam mollitia aut eaque nihil eos rem suscipit error id nesciunt saepe? Deserunt aspernatur, iusto facere sequi doloribus accusantium porro odio alias.
+            </div>
+          </div>
+          <a class="list-group-item"  data-toggle="collapse" href="#collapse1-2" aria-expanded="false" aria-controls="collapseExample">Planning familial</a>
+          <div class="collapse" id="collapse1-2">
+            <div class="well">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam mollitia aut eaque nihil eos rem suscipit error id nesciunt saepe? Deserunt aspernatur, iusto facere sequi doloribus accusantium porro odio alias.
+            </div>
+          </div>
+          <li class="list-group-item">E.G.A.L.E</li>
+          <li class="list-group-item">terra femina</li>
+          <li class="list-group-item">osez le féminisme</li>
+        </ul>
+      </div>
+
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <!--fin container-->
+  <footer>
+    
+  </footer>
+  <!--fin footer-->
+</body>
+    
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script>
+      $('collapse').collapse();
+    </script>
+</html>

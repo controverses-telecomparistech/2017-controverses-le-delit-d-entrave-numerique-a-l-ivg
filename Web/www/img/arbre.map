@@ -1,0 +1,18 @@
+<img src="img/arbre.png" width="1002" height="594" border="0" usemap="#map" />
+<map name="map">
+<area shape="rect" coords="119,143,264,183" />
+<area shape="rect" coords="172,74,367,112" />
+<area shape="rect" coords="332,22,503,63" />
+<area shape="rect" coords="265,212,417,257" />
+<area shape="rect" coords="415,89,615,144" />
+<area shape="rect" coords="633,3,831,58" />
+<area shape="rect" coords="778,173,906,214" />
+<area shape="rect" coords="592,236,766,279" />
+<area shape="rect" coords="2,317,202,385" />
+<area shape="rect" coords="102,490,258,531" />
+<area shape="rect" coords="236,374,306,418" />
+<area shape="rect" coords="348,295,549,363" />
+<area shape="rect" coords="795,370,993,425" />
+<area shape="rect" coords="578,417,757,460" />
+<area shape="rect" coords="573,517,775,571" />
+</map>
