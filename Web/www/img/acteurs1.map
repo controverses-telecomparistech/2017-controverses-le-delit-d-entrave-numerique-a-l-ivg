@@ -1,0 +1,21 @@
+<img src="[acteurs1] (importée)" width="741" height="616" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:LEW530 -->
+<area shape="rect" coords="392,30,546,122" href="modal1_1" />
+<area shape="rect" coords="581,41,740,142" href="modal1_2" />
+<area shape="rect" coords="398,136,560,192" href="modal1_3" />
+<area shape="rect" coords="590,156,710,186" href="modal1_4" />
+<area shape="rect" coords="88,250,260,338" href="modal2_1" />
+<area shape="rect" coords="0,351,140,390" href="modal2_2" />
+<area shape="rect" coords="150,352,351,390" href="modal2_3" />
+<area shape="rect" coords="91,400,210,429" href="modal2_4" />
+<area shape="rect" coords="394,251,515,290" href="modal3_1" />
+<area shape="rect" coords="560,250,710,320" href="modal3_2" />
+<area shape="rect" coords="394,330,516,391" href="modal3_3" />
+<area shape="rect" coords="566,331,685,392" href="modal3_4" />
+</map>
