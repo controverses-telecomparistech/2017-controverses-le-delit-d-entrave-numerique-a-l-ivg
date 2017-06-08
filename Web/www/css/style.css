@@ -1,10 +1,3 @@
-.header{
-	background-image: url(img/simone.png);
-}
-
-
-
-
 
 h1 {
     font-size: 50px;
@@ -16,17 +9,27 @@ h1 small{
 }
 p{
 	text-align: justify;
+	font-size: 18px;
 }
 a{
 	color :black;
 }
+h4{
+	font-weight: bold;
+}
+#dire{
+	margin-left: 70px;
+}
+#caricature{
+	padding-bottom: 15px;
+}
 body{
-	/*background-color: rgb(141, 198, 237);*/
 	background-color: #f7f1e1;
 	color: black;
 }
 .hautdepage{
 	padding-top: 70px;
+	padding-bottom: 30px;
 }
 .dropdown-menu{
 	background-color: black; 
@@ -36,7 +39,7 @@ body{
 }
 
 footer{
-	    padding-top: 30px;
+	padding-top: 30px;
     padding-bottom: 30px;
     color: #fff;
     background: #222;
@@ -56,7 +59,7 @@ footer{
 
 /*entretiens*/
 .sansfond{
-	background-color: rgb(141, 198, 237);
+	background-color: #f7f1e1;
 }
 /*arbre*/
 .arbre p{
@@ -74,21 +77,9 @@ footer{
 }
 /*chronologie*/
 
-/*bandeau cliqué*/
 .tl-timemarker.tl-timemarker-active .tl-timemarker-content-container{
-	background-color: deepskyblue;
+	background-color: #f7f1e1;
 }
-/*bandeau non cliqué*/
-/*.tl-timemarker .tl-timemarker-content-container {
-	background-color: #FFC555;
-}*/
-.tl-timemarker.tl-timemarker-hover .tl-timemarker-content-container{
-	background-color: pink;
-}
-/*bande*/
-/*.tl-timenav .tl-timenav-slider .tl-timenav-slider-background {
-	background-color: lightskyblue;
-}*/
 
 .tl-timeline p{
 	padding: 5px;
@@ -96,3 +87,4 @@ footer{
 span.tl-icon-image{
 	display: none;
 }
+
